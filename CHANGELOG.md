@@ -1,3 +1,34 @@
+4.0.0 Release notes (2017-10-31)
+=============================================================
+
+### Enhancements
+* Support Swift4.0
+
+### Bugfixes
+* None.
+
+
+3.0.2 Release notes (2017-08-23)
+=============================================================
+
+### Enhancements
+* Added option `animationOptions`.
+
+### Bugfixes
+* Respect root view controller’s preferredStatusBarStyle.
+
+
+3.0.1 Release notes (2016-12-02)
+=============================================================
+
+### Enhancements
+* Added options `panGesturesEnabled` and `tapGesturesEnabled`.
+  Options defaults are of course set to enabled/true so no impact to anyone already using this.
+
+### Bugfixes
+* Fix project settings.
+
+
 3.0.0 Release notes (2016-09-12)
 =============================================================
 
